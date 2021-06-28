@@ -1,9 +1,9 @@
 #include<stdio.h>
 int main ()
 {
-    long l;
+    long long l;
     int i;
-    double d;
+    long double d;
     char c;
 
     printf("The size of long: %zu \n", sizeof(l));
